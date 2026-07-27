@@ -1,23 +1,54 @@
 aid: greenfield-online
 name: Greenfield Online
-description: Greenfield Online is a company surfaced as a portfolio company of insight-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Greenfield Online, Inc. (Nasdaq SRVY) was an independent provider of Internet-based survey solutions and
+  online market-research panels, headquartered in Wilton, Connecticut. Founded in 1994, it pioneered online
+  panel sampling and data collection for the marketing-research industry, went public in 2004, and grew by
+  acquiring sampling firms worldwide (including European comparison-shopping service Ciao). Microsoft
+  acquired the company in 2008 for roughly $486 million to obtain Ciao, then divested the survey and
+  sampling assets to Toluna in 2009. Greenfield Online no longer operates as an independent entity and
+  publishes no developer program, public API, or live web presence today. This record is retained as a
+  portfolio-lead profile surfaced from the Insight Partners portfolio.
 url: https://raw.githubusercontent.com/api-evangelist/greenfield-online/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist/apievangelist-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: Acquired by Microsoft in 2008; survey/sampling assets sold to Toluna in 2009. No live API surface.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Market Research
+- Surveys
+- Online Panels
+- Data Collection
+- Consumer Insights
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
