@@ -10,6 +10,17 @@ description: >-
   publishes no developer program, public API, or live web presence today. This record is retained as a
   portfolio-lead profile surfaced from the Insight Partners portfolio.
 url: https://raw.githubusercontent.com/api-evangelist/greenfield-online/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
